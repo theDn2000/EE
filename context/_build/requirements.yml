@@ -1,0 +1,9 @@
+---
+collections:
+  - name: community.vmware
+  - name: community.aws
+  - name: community.azure
+  - name: community.google
+  - name: community.windows
+  - name: citrix.adc
+  
